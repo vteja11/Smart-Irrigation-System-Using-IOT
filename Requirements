@@ -1,0 +1,15 @@
+Hardware Requirements
+
+  MSP432P401R(x 1units)(Master)
+  MSP430F5529 (x 3 Units)(Node)
+  ESP8266-01 – 1 Qty
+  Zigbee XBee s2c (x6) -4 Qty
+  DHT 11 (x 3 Qty)
+  Soil and moisture sensor YL 69 (x 3 Qty)
+  5v DC power supply
+  Connecting wires
+Software Requirements 
+
+  Code composer studio version 7
+  Energia 1.6.10E18
+  Amazon Web Services
